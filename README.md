@@ -1,6 +1,7 @@
-# Employee-Churn-Salifort-Motors-Model-Prediction
-This is a capstone project useful for completing the Google course: Advanced Data Analysis.
-Performed: Data Cleaning, EDA, Data Visualization, Logistic Regression, and Tree-based Models (Decision Tree and Random Forest).
+# Employee Churn: Salifort Motors Model Prediction
+This is a capstone project useful for completing the course: **Google Advanced Data Analytics Professional Certificate**.
+
+**Performed:** Data Cleaning, EDA, Data Visualization, Logistic Regression, and Tree-based Models (Decision Tree and Random Forest).
 
 ### Understand the business scenario and problem
 
@@ -8,4 +9,4 @@ The HR department at Salifort Motors wants to take some initiatives to improve e
 
 **My goal for this project is to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.** 
 
-If you can predict employees likely to quit, it might be possible to identify factors that contribute to their leaving. Because it is time consuming and expensive to find, interview, and hire new employees, increasing employee retention will be beneficial to the company.
+
